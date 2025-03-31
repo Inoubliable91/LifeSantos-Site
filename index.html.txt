@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life Santos - Accueil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Life Santos</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#reglements">Règlements</a></li>
+                <li><a href="#guide">Guide du Débutant</a></li>
+                <li><a href="#boutique">Boutique</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Bienvenue sur Life Santos</h2>
+        <p>Un serveur unique avec une ambiance tropicale et urbaine.</p>
+        <a href="#guide" class="btn">Commencer</a>
+    </section>
+
+    <section id="reglements">
+        <h2>📜 Règlements</h2>
+        <p>Retrouvez ici toutes les règles du serveur.</p>
+    </section>
+
+    <section id="guide">
+        <h2>🎓 Guide du Débutant</h2>
+        <p>Apprenez à bien démarrer sur Life Santos.</p>
+    </section>
+
+    <section id="boutique">
+        <h2>🛒 Boutique</h2>
+        <p>Achetez des packs VIP, skins et monnaie in-game.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Life Santos | <a href="#">Discord</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
