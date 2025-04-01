@@ -62,10 +62,3 @@ footer {
     background: rgba(0, 0, 0, 0.8);
     padding: 20px;
 }
-
-.logo {
-    display: block;
-    margin: 20px auto; /* Centre le logo */
-    width: 150px; /* Ajuste la taille */
-    height: auto;
-}
